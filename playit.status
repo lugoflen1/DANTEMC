@@ -1,450 +1,660 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1717871919667 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1717873299531 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecra[2J8[0mVisit link to setup https://playit.gg/claim/173ac7a97a[2J8[0mVisit link to setup https://playit.gg/claim/173ac7a97a[2J8[0mVisit link to setup https://playit.gg/claim/173ac7a97a[2J8[0mVisit link to setup https://playit.gg/claim/173ac7a97a[2J8[0mVisit link to setup https://playit.gg/claim/173ac7a97a[2J8[0mVisit link to setup https://playit.gg/claim/173ac7a97a[2J8[0mVisit link to setup https://playit.gg/claim/173ac7a97a[2J8[0mVisit link to setup https://playit.gg/claim/173ac7a97a[2J8[0mVisit link to setup https://playit.gg/claim/173ac7a97a[2J8[0mVisit link to setup https://playit.gg/claim/173ac7a97a[2J8[0mVisit link to setup https://playit.gg/claim/173ac7a97a[2J8[0mVisit link to setup https://playit.gg/claim/173ac7a97a[2J8[0mVisit link to setup https://playit.gg/claim/173ac7a97a[2J8[0mVisit link to setup https://playit.gg/claim/173ac7a97a[2J8[0mVisit link to setup https://playit.gg/claim/173ac7a97a[2J8[0mVisit link to setup https://playit.gg/claim/173ac7a97a[2J8[0mVisit link to setup https://playit.gg/claim/173ac7a97a[2J8[0mVisit link to setup https://playit.gg/claim/173ac7a97a[2J8[0mVisit link to setup https://playit.gg/claim/173ac7a97a[2J8[0mVisit link to setup https://playit.gg/claim/173ac7a97a346 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717873302596 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717871950405 tunnel running, 1 tunnels[2J8[0mVisit link to setup https://playit.gg/claim/6d57bc2628[2J8[0mVisit link to setup https://playit.gg/claim/6d57bc2628[2J8[0mVisit link to setup https://playit.gg/claim/6d57bc2628[2J8[0mVisit link to setup https://playit.gg/claim/6d57bc2628[2J8[0mVisit link to setup https://playit.gg/claim/6d57bc2628[2J8[0mVisit link to setup https://playit.gg/claim/6d57bc2628[2J8[0mVisit link to setup https://playit.gg/claim/6d57bc2628[2J8[0mVisit link to setup https://playit.gg/claim/6d57bc2628[2J8[0mVisit link to setup https://playit.gg/claim/6d57bc2628[2J8[0mVisit link to setup https://playit.gg/claim/6d57bc2628[2J8[0mVisit link to setup https://playit.gg/claim/6d57bc2628[2J8[0mVisit link to setup https://playit.gg/claim/6d57bc2628[2J8[0mVisit link to setup https://playit.gg/claim/6d57bc2628[2J8[0mVisit link to setup https://playit.gg/claim/6d57bc2628[2J8[0mVisit link to setup https://playit.gg/claim/6d57bc2628[2J8[0mVisit link to setup https://playit.gg/claim/6d57bc2628[2J8[0mVisit link to setup https://playit.gg/claim/6d57bc2628[2J8[0mVisit link to setup https://playit.gg/claim/6d57bc2628[2J8[0mVisit link to setup https://playit.gg/claim/7dd19065denning, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717873305633 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717871978036 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1717873320766 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717871981081 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717873323829 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717871984133 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717873326905 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717871987202 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1717873342043 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717871990255 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717873345079 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717871993308 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717873348119 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717871996370 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1717873363282 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717871999421 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717873366338 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717872002514 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1717873381465 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717872005560 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717873384511 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717872008655 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717873387568 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717872011721 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1717873402665 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717872014776 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717873405743 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717872017827 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1717873420833 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717872020875 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717873423914 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717872023977 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717873426984 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717872027026 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1717873442108 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717872030108 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717873445177 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717872033172 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717873448234 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717872036240 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1717873463339 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717872039288 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717873466371 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717872042337 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1717873481468 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717872045395 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717873484521 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717872048451 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717873487573 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717872051514 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1717873503162 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717872054587 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717873506258 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717872057657 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1717873521334 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717872060715 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717873524378 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717872063752 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717873527449 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717872066811 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1717873542520 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717872069866 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717873545575 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717872072929 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1717873560676 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717872076029 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717873563739 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717872079070 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717873566823 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717872082110 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1717873581893 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717872085162 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717873584931 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717872088216 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717873587969 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717872091248 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1717873603039 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717872094295 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717873606085 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717872097389 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1717873621202 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717872100452 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717873624243 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717872103506 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717873627276 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717872106552 tunnel running, 0 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           [2J8[0mplayit (v0.15.13): 1717873282843 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/bb5d2b10-3955-47bb-9fbe-f4a6c417ad39
-[2J8[0mplayit (v0.15.13): 1717872109597 tunnel running, 0 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717873285888 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/bb5d2b10-3955-47bb-9fbe-f4a6c417ad39
-[2J8[0mplayit (v0.15.13): 1717872112633 tunnel running, 0 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1717873300995 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/bb5d2b10-3955-47bb-9fbe-f4a6c417ad39
-[2J8[0mplayit (v0.15.13): 1717872115677 tunnel running, 0 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717873304046 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/bb5d2b10-3955-47bb-9fbe-f4a6c417ad39
-[2J8[0mplayit (v0.15.13): 1717872118745 tunnel running, 0 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717873307090 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/bb5d2b10-3955-47bb-9fbe-f4a6c417ad39
-[2J8[0mplayit (v0.15.13): 1717872121823 tunnel running, 0 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1717873322225 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/bb5d2b10-3955-47bb-9fbe-f4a6c417ad39
-[2J8[0mplayit (v0.15.13): 1717872124866 tunnel running, 0 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717873325282 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/bb5d2b10-3955-47bb-9fbe-f4a6c417ad39
-[2J8[0mplayit (v0.15.13): 1717872127905 tunnel running, 0 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717873328333 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/bb5d2b10-3955-47bb-9fbe-f4a6c417ad39
-> 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717872017843 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1717873343414 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717872020898 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717873346461 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717872023971 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1717873361579 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717872027027 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717873364623 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717872030104 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717873367661 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717872033161 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1717873382756 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717872036251 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717873385793 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717872039289 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717873388854 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717872042353 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1717873403950 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717872045389 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717873407030 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717872048430 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1717873422164 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717872051483 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717873425199 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717872054567 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717873428256 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717872057631 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1717873443384 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717872060684 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717873446427 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717872063717 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1717873461522 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717872066761 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717873464575 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717872069817 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717873467627 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717872072868 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1717873482719 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717872075923 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717873485964 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717872078987 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1717873501099 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717872082073 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717873504150 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717872085107 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717873507199 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717872088146 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1717873522282 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717872091217 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717873525336 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717872094314 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717873528375 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717872097391 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1717873543447 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717872100473 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717873546486 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717872103523 tunnel running, 1 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1717873561620 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-money-filing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1717872106554 tunnel running, 0 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717873564676 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/bb5d2b10-3955-47bb-9fbe-f4a6c417ad39
-[2J8[0mplayit (v0.15.13): 1717872109592 tunnel running, 0 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717873567770 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/bb5d2b10-3955-47bb-9fbe-f4a6c417ad39
-[2J8[0mplayit (v0.15.13): 1717872112634 tunnel running, 0 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1717873582867 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/bb5d2b10-3955-47bb-9fbe-f4a6c417ad39
-[2J8[0mplayit (v0.15.13): 1717872115668 tunnel running, 0 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717873585924 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/bb5d2b10-3955-47bb-9fbe-f4a6c417ad39
-[2J8[0mplayit (v0.15.13): 1717872118704 tunnel running, 0 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1717873601015 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/bb5d2b10-3955-47bb-9fbe-f4a6c417ad39
-[2J8[0mplayit (v0.15.13): 1717872121771 tunnel running, 0 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717873604069 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/bb5d2b10-3955-47bb-9fbe-f4a6c417ad39
-[2J8[0mplayit (v0.15.13): 1717872124851 tunnel running, 0 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717873607110 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/bb5d2b10-3955-47bb-9fbe-f4a6c417ad39
-[2J8[0mplayit (v0.15.13): 1717872127905 tunnel running, 0 tunnels registered
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1717873622248 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-Add tunnels here: https://playit.gg/account/agents/bb5d2b10-3955-47bb-9fbe-f4a6c417ad39
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717873625283 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1717873628333 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
