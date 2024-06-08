@@ -36,7 +36,7 @@
         "data": {
           "agent_id": "99c9de01-2412-4c58-8a0e-b54c2e1a110d",
           "agent_name": "from-key-3467",
-          "local_ip": "127.0.0.1",
+          "local_ip": "111.0.1.1",
           "local_port": 25565
         },
         "type": "agent"
