@@ -1,76 +1,766 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1718009625501 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1718009693322 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718009628555 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718009696365 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718009631607 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718009699415 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718009634654 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718009702468 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718009637794 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718009705524 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718009640871 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718009708582 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718009643932 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718009711647 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718009647012 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718009714705 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718009650068 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718009717763 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718009653119 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718009720814 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718009656170 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718009723866 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718009659240 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718009726923 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718009662310 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718009729959 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009732996 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009736066 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009739122 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009742181 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009745229 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009748286 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009751326 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009754378 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009757427 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009760464 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009763507 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009766541 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009769583 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009772636 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009775698 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009778768 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009781823 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009784862 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009787925 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009790960 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009794002 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009797039 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009800076 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009803110 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009806142 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009809193 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009812245 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009815279 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009818331 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009821409 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009824493 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009827548 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009830606 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009833660 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009836710 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009839742 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009842776 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009845828 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009848866 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009851933 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009854981 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009858014 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009861060 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009864103 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009867152 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009870190 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009873266 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009876313 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009879397 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009882438 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009885474 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009888506 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009891552 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009894607 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009897662 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009900714 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009903765 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009906813 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009909862 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009912936 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009916003 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009919067 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009922120 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009925172 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009928221 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009931275 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009934329 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009937413 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009940465 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009943523 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009946574 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009949613 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009952653 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009955715 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009958789 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009961861 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009964908 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009967957 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009971008 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009974043 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009977075 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009980110 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009983146 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009986207 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009989240 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009992275 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009995323 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718009998394 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718010001454 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718010004547 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718010007683 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718010010743 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718010013805 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718010016867 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718010019903 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718010022940 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718010026001 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718010029052 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718010032110 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718010035192 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718010038244 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718010041297 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718010044348 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718010047409 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718010050465 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718010053558 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718010056626 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718010059666 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718010062701 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718010065749 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718010068791 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718010071846 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718010074898 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718010077949 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+seen-resolve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+if-fourth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718010080996 tunnel running, 2 tunnels registered
 
 
 TUNNELS
